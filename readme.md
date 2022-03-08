@@ -15,3 +15,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Final result
+https://gimdz.netlify.app/
