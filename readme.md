@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 ## Final result
-https://gimdz.netlify.app/
+https://gimdz-threejs1.netlify.app/
